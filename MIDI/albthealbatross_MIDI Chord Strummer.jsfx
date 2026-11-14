@@ -1,7 +1,7 @@
 desc: MIDI Chord Strummer
 author: ALBtheALBatross
 version: 3
-changelog: New GUI now displays key presses. New strum order modes.
+changelog: New GUI now displays key presses. New strum order modes. New adjustable mute length. New demo chord to test strums while editing. New more intuitive keymap.
 provides: albthealbatross_MIDI Chord Strummer/strummer_diagram.png
 about:
   Basic instructions:
